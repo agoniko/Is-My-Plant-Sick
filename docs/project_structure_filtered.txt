@@ -1,0 +1,53 @@
+--- Folder Structure ---
+[app]
+//Code related to streamlit platform.
+    ├── Home_page.py
+    ├── [backend]
+        //FastAPI server that handles javascript requests for images selected from gallery
+        ├── path.txt
+        └── requests_handler.py
+    ├── [lib]
+        //Singletons used by the streamlit pages
+        ├── ai_engine.py
+        └── gallery_handler.py
+    ├── [my_test_images]
+        ├── //Test images scraped from the web
+    ├── [pages]
+        ├── Scroll_our_gallery.py
+        ├── Upload_your_image.py
+    └── [resources]
+        ├── classes.csv
+        ├── description_creation.ipynb
+        ├── disease_description.csv
+        └── home_description.md
+[datasets]
+    ├── //deleted for visualization
+[images]
+    ├── example of wrong attention maps.png
+    ├── example of wrong attention2 rollout.png
+    └── example of wrong attention2.png
+[notebooks]
+    ├── EDA-PlantVillage.ipynb
+    ├── attention_visualization.ipynb
+    ├── [class_maps]
+        ├── d2v.json
+        └── v2d.json
+    ├── dataset_unification.ipynb
+    ├── synthetic-PlantDoc.ipynb
+    └── training.ipynb
+[pytorch-grad-cam]
+    |git repo
+[src]
+    ├── Pretrained_models.py
+    ├── Vit.py
+    ├── helper_functions.py
+    ├── swin_transformer_mine.py
+    └── torch_vit.py
+[weights]
+    ├── pretrained_vit.pt
+    ├── pretrained_vit_village.pt
+    ├── resnet.pt
+    ├── swin.pt
+    └── vit.pt
+
+--- File Contents ---

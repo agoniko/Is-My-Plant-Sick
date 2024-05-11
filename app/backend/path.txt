@@ -1,0 +1,10 @@
+../datasets/unified/raspberry___healthy/3074.jpg../datasets/unified/potato___early_blight/2604.jpg
+../datasets/unified/potato___early_blight/2604.jpg
+../datasets/unified/soybean___healthy/3817.jpg
+../datasets/unified/apple___apple_scab/431.jpg
+../datasets/unified/squash___powdery_mildew/4023.jpg
+../datasets/unified/tomato___bacterial_spot/5380.jpg
+../datasets/unified/tomato___bacterial_spot/5427.jpg
+../datasets/unified/tomato___early_blight/10451.jpg
+../datasets/unified/apple___apple_scab/431.jpg
+../datasets/unified/apple___cedar_apple_rust/422.jpg
